@@ -12,7 +12,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/python-hangman.git
+git clone https://github.com/ashish17133/hang-man.git
 
 Navigate to the project directory:
 
